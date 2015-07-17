@@ -1,0 +1,6 @@
+10 CLS
+20 PRINT "Hello, Developers!"
+30 PRINT "Isn't it time someone got some beers."
+40 PRINT ""
+50 PRINT ""
+80 END  
